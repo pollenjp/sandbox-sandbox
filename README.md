@@ -1,7 +1,7 @@
 # sandbox
 
-```jsonc:settings.jsonc
-
+```jsonc:.vscode/settings.jsonc
+// .vscode/settings.jsonc
 {
     // Unresolved import warnings
     // https://stackoverflow.com/a/57669739/9316234
