@@ -1,9 +1,7 @@
 on:
   pull_request:
     branches:
-      - xxx[0-9]?
-      - yyy[0-9]{4}
-      - zzz[0-9]{4}(-[0-9]+)+
+      - xxx[0-9]+*
 
 jobs:
   sample:
